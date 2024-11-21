@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/InterwebCreations/static/css/main.9f955d10.css",
+    "main.js": "/InterwebCreations/static/js/main.6c5fbc00.js",
+    "static/js/453.78880fba.chunk.js": "/InterwebCreations/static/js/453.78880fba.chunk.js",
+    "static/media/banner.png": "/InterwebCreations/static/media/banner.c13b066cd961df26acc9.png",
+    "static/media/video1.jpg": "/InterwebCreations/static/media/video1.fea846e34df756501921.jpg",
+    "static/media/contacto.png": "/InterwebCreations/static/media/contacto.9331a31ec0502594c9d1.png",
+    "static/media/nosotros.png": "/InterwebCreations/static/media/nosotros.2579bd32c257d3964e79.png",
+    "static/media/administrador.png": "/InterwebCreations/static/media/administrador.19d4e3798dcd080b7164.png",
+    "static/media/marketing.png": "/InterwebCreations/static/media/marketing.9b1b3d5bec2ebdc37265.png",
+    "static/media/video3.jpg": "/InterwebCreations/static/media/video3.7bc98bda5ccd08958e62.jpg",
+    "static/media/appmovil.png": "/InterwebCreations/static/media/appmovil.89e7642fc7596045502b.png",
+    "static/media/redes.png": "/InterwebCreations/static/media/redes.e5b8a65bf7afd3ecc0cb.png",
+    "static/media/logo.png": "/InterwebCreations/static/media/logo.d8a1df99affd8bc211b8.png",
+    "static/media/appweb.png": "/InterwebCreations/static/media/appweb.cdfe7efe4bd5845fb20f.png",
+    "static/media/logo.svg": "/InterwebCreations/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "static/media/slick.svg": "/InterwebCreations/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "/InterwebCreations/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "/InterwebCreations/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "static/media/slick.woff": "/InterwebCreations/static/media/slick.295183786cd8a1389865.woff",
+    "index.html": "/InterwebCreations/index.html",
+    "main.9f955d10.css.map": "/InterwebCreations/static/css/main.9f955d10.css.map",
+    "main.6c5fbc00.js.map": "/InterwebCreations/static/js/main.6c5fbc00.js.map",
+    "453.78880fba.chunk.js.map": "/InterwebCreations/static/js/453.78880fba.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9f955d10.css",
+    "static/js/main.6c5fbc00.js"
+  ]
+}
